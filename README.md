@@ -1,1 +1,3 @@
-# yandex-tasks
+# Yandex tasks
+
+Тестовые задания от Яндекса
